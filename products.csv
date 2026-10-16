@@ -1,0 +1,11 @@
+product_id,name,category,color,price,stock_S,stock_M,stock_L,stock_XL,description
+P01,Black Cotton Kurta,men kurta,black,2499,3,5,0,2,Soft breathable cotton kurta for daily wear
+P02,White Formal Shirt,men shirt,white,2999,2,4,6,1,Slim-fit formal shirt for office
+P03,Blue Denim Jeans,men jeans,blue,3299,0,7,4,3,Stretchable straight-fit denim
+P04,Embroidered Lawn Suit,women suit,pink,4499,4,2,1,0,3-piece embroidered lawn suit
+P05,Maroon Shalwar Kameez,men shalwar kameez,maroon,3999,1,3,5,2,Wash-and-wear fabric for Eid and events
+P06,Grey Fleece Hoodie,unisex hoodie,grey,2999,5,0,3,4,Warm fleece hoodie for winter
+P07,Beige Waistcoat,men waistcoat,beige,3499,0,2,2,1,Formal waistcoat for weddings
+P08,Black Silk Kurta,women kurta,black,2799,2,0,3,0,Silk kurta with embroidered neckline
+P09,Green Polo Shirt,men shirt,green,1799,6,6,6,2,Cotton pique polo shirt
+P10,White Cotton Kurta,men kurta,white,2299,2,4,3,0,Classic white kurta for Jummah and events

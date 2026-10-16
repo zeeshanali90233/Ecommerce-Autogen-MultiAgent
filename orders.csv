@@ -1,0 +1,11 @@
+order_id,customer,phone,city,product_id,size,qty,total,status,order_date,expected_delivery,delivered_on,courier,tracking_no
+1001,Ali Raza,0300-1112233,Lahore,P01,M,1,2499,delivered,2026-10-08,2026-10-12,2026-10-12,TCS,TCS-778101
+1002,Ayesha Khan,0321-4455667,Lahore,P04,S,1,4499,delivered,2026-10-10,2026-10-14,2026-10-14,Leopards,LP-552002
+1003,Usman Tariq,0333-9988776,Karachi,P03,L,1,3299,in_transit,2026-10-14,2026-10-19,,TCS,TCS-778103
+1004,Fatima Noor,0345-1234567,Faisalabad,P06,M,2,5998,processing,2026-10-16,2026-10-22,,,
+1005,Hamza Sheikh,0301-7654321,Islamabad,P02,L,1,2999,shipped,2026-10-15,2026-10-20,,M&P,MP-990105
+1006,Sana Iqbal,0322-3344556,Multan,P05,XL,1,3999,delivered,2026-09-27,2026-10-01,2026-10-01,TCS,TCS-778106
+1007,Bilal Ahmed,0312-8877665,Lahore,P09,M,1,1799,cancelled,2026-10-11,,,,
+1008,Zainab Ali,0335-5566778,Rawalpindi,P07,M,1,3499,delivered,2026-09-28,2026-10-02,2026-10-02,Leopards,LP-552008
+1009,Omar Farooq,0300-2233445,Lahore,P10,L,1,2299,out_for_delivery,2026-10-13,2026-10-17,,TCS,TCS-778109
+1010,Hira Javed,0346-6677889,Peshawar,P08,S,1,2799,shipped,2026-10-15,2026-10-21,,M&P,MP-990110
